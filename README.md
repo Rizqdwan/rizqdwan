@@ -1,7 +1,7 @@
 ## Fortuitousmake
 
 Hi, I'm Rizqdwan 
-
+<hr>
 just an ordinary college student who likes type code.
 - 🔭 I'm currently working on making a website for college stuff
 - 🌱 I’m currently learning **everything!**
