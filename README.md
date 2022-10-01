@@ -8,12 +8,10 @@ just an ordinary college student who likes type code.
 
 ## Social
 
-**[Twitter](https://twitter.com/Fortuitousmake)**
+- [Twitter](https://twitter.com/Fortuitousmake)**
 
 <br>
-<br>
 
-<img src="https://github-readme-stats.vercel.app/api?username=Rizqdwan&theme=monokai&column=7&no-frame=true" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rizqdwan&theme=monokai&column=7&no-frame=true"/>
 
 
