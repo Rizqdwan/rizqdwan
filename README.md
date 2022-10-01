@@ -1,16 +1,19 @@
 ## Fortuitousmake
 
-Hi, I'm Rizqdwan 
+## Hi, I'm Rizqdwan 
 
-## just an ordinary college student who likes type code.
+just an ordinary college student who likes type code.
 - 🔭 I'm currently working on making a website for college stuff
 - 🌱 I’m currently learning **everything!**
 
 ## Social
 
 **[Twitter](https://twitter.com/Fortuitousmake)**
+
+<br>
 <br>
 
+<img src="https://github-readme-stats.vercel.app/api?username=Rizqdwan&theme=monokai&column=7&no-frame=true" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rizqdwan&theme=monokai&column=7&no-frame=true"/>
 
 
