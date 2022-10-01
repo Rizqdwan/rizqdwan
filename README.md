@@ -9,6 +9,9 @@ just an ordinary college student who likes programming, and now I am in the proc
 ### Social
 
 **[Twitter](https://twitter.com/Fortuitousmake)**
+<br>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rizqdwan&theme=monokai&column=7&no-frame=true"/>
 
 
 <!--
