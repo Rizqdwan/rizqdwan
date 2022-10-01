@@ -1,8 +1,10 @@
 ## Fortuitousmake
 
-**Rizqdwan | Yogyakarta, Indonesia**
+Hi, I'm Rizqdwan 
 
-Hi, I'm just an ordinary college student who likes programming, and now I am in the process of becoming a back-end developer.
+just an ordinary college student who likes programming, and now I am in the process of becoming a back-end developer.
+- 🔭 I'm currently working on making a website for college stuff
+- 🌱 I’m currently learning **everything!**
 
 ### Social
 
