@@ -1,4 +1,13 @@
-### Hi there 👋
+## Fortuitousmake
+
+**Rizqdwan | Yogyakarta, Indonesia**
+
+Hi, I'm just an ordinary college student who likes programming, and now I am in the process of becoming a back-end developer.
+
+### Social
+
+**[Twitter](https://twitter.com/Fortuitousmake)**
+
 
 <!--
 **Rizqdwan/Rizqdwan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
