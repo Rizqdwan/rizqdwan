@@ -8,7 +8,7 @@ just an ordinary college student who likes type code.
 
 ## Social
 
-- [Twitter](https://twitter.com/Fortuitousmake)**
+- [Twitter](https://twitter.com/Fortuitousmake)
 
 <br>
 
