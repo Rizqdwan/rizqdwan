@@ -1,4 +1,4 @@
-Fortuitousmake
+Fortuitousmake.index
 
 ## Hi, I'm Rizqdwan 
 
