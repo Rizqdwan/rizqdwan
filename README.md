@@ -12,8 +12,9 @@ just an ordinary college student who likes type code.
 
 <br>
 
-<img  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rizqdwan&theme=monokai&column=7&no-frame=true"/>
-
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rizqdwan&theme=monokai&column=7&no-frame=true"/>
+</p>
 
 <!--
 **Rizqdwan/Rizqdwan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
