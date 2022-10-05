@@ -13,7 +13,7 @@ just an ordinary college student who likes type code.
 <br>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rizqdwan&theme=monokai&column=7&no-frame=true"/>
+<img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Rizqdwan&theme=monokai&column=7&no-frame=true"/>
 </p>
 
 <!--
