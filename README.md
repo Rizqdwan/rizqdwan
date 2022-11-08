@@ -5,6 +5,7 @@ Fortuitousmake.index
 just an ordinary college student who likes type code.
 - 🔭 I'm currently learning on Web Development, Linux, Data Science, and Information Technology Development Management
 - 🌱 I learned **everything!**
+- ⚡ Fun fact: I like learning backend
 
 ## Social
 
