@@ -16,9 +16,9 @@ just an ordinary college student who likes type code.
 <p align="center">
 <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Rizqdwan&theme=monokai&column=7&no-frame=true"/>
 </p>
-<"center">
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rizqdwan&layout=compact&theme=monokai)](https://github.com/Rizqdwan/github-readme-stats)
-</center>
+<p align="center">
+<img src=(https://github-readme-stats.vercel.app/api/top-langs/?username=Rizqdwan&layout=compact&theme=monokai)/>
+</p>
 <!--
 **Rizqdwan/Rizqdwan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
