@@ -3,7 +3,7 @@ Fortuitousmake.index
 ## Hi, I'm Rizqdwan 
 
 just an ordinary college student who likes type code.
-- 🌱 I learned **everything!**
+- 💬 I learned **everything!**
 
 
 ## Social
