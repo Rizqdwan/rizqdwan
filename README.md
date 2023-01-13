@@ -3,9 +3,8 @@ Fortuitousmake.index
 ## Hi, I'm Rizqdwan 
 
 just an ordinary college student who likes type code.
-- 🔭 I'm currently learning on Web Development and Linux
 - 🌱 I learned **everything!**
-- ⚡ Fun fact: I like learning backend
+
 
 ## Social
 
