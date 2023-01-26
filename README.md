@@ -11,7 +11,7 @@ just an ordinary college student who likes type code.
 - [Twitter](https://twitter.com/Fortuitousmake)
 
 
-<p style="align:center;">
+<p style="text-align: center;>
 <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Rizqdwan&theme=monokai&column=7&no-frame=true"/>
 </p>
 
