@@ -12,7 +12,7 @@ just an ordinary college student who likes type code.
 
 <br>
 
-<div style="margin: auto">
+<div style="text-align:center">
   
 ![Language Stats](https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=Rizqdwan&langs_count=10&layout=compact&role=OWNER,COLLABORATOR,ORGANIZATION_MEMBER&theme=react&hide=jupyter%20notebook,html)
   
