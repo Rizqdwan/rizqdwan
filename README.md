@@ -13,10 +13,11 @@ just an ordinary college student who likes type code.
 <br>
 
 <p align="center">
-<img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Rizqdwan&theme=monokai&column=7&no-frame=true"/>
+![Language Stats](https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=Rizqdwan&langs_count=10&layout=compact&role=OWNER,COLLABORATOR,ORGANIZATION_MEMBER&theme=react&hide=jupyter%20notebook,html)
 </p>
 
-![Language Stats](https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=Rizqdwan&langs_count=10&layout=compact&role=OWNER,COLLABORATOR,ORGANIZATION_MEMBER&theme=react&hide=jupyter%20notebook,html)
+<!-- <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Rizqdwan&theme=monokai&column=7&no-frame=true"/> -->
+
 
 <!--
 **Rizqdwan/Rizqdwan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
