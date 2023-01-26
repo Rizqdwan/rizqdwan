@@ -10,15 +10,8 @@ just an ordinary college student who likes type code.
 
 - [Twitter](https://twitter.com/Fortuitousmake)
 
-<br>
-<style>
-.center{
-  display: table;
-  margin: auto;
-  }
-</style>
 
-<div class="center" style="text-align:center">
+<div ">
   
 ![Language Stats](https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=Rizqdwan&langs_count=10&layout=compact&role=OWNER,COLLABORATOR,ORGANIZATION_MEMBER&theme=react&hide=jupyter%20notebook,html)
   
