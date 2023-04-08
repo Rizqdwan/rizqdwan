@@ -2,7 +2,7 @@ Fortuitousmake.index
 
 ## Hi, I'm Rizqdwan 
 
-Just an ordinary college student who likes type code, design, and make something cool
+Just an ordinary college student who likes to type code, design, and make something cool.
 - 🔭 I'm currently working on something
 - 🌱 I’m currently learning Python and 3D design
 - 💬 I learned **everything!**
