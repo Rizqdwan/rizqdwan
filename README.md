@@ -4,7 +4,6 @@ Fortuitousmake.index
 
 Just an ordinary college student who likes to type code, design, and make something cool.
 - 🔭 I'm currently working on something
-- 🌱 I’m currently learning 3D design
 - 💬 I learned **everything!**
 
 
@@ -16,7 +15,7 @@ Just an ordinary college student who likes to type code, design, and make someth
 <!-- <div style="text-align:center">
 <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Rizqdwan&theme=monokai&column=7&no-frame=true"/>
 </div> -->
-
+<!--- 🌱 I’m currently learning 3D design>
 <!-- ![Language Stats](https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=Rizqdwan&langs_count=10&layout=compact&role=OWNER,COLLABORATOR,ORGANIZATION_MEMBER&theme=react&hide=jupyter%20notebook,html) -->
 
 <!--
