@@ -3,7 +3,8 @@ Fortuitousmake.index
 ## Hi, I'm Rizqdwan 
 
 Just an ordinary college student who likes to type code, design, and make something cool.
-- 🔭 I'm currently working on something
+- 🔭 I'm currently working on Personal Project
+- - 🌱 I’m currently learning Javascript and Tailwind
 - 💬 I learned **everything!**
 
 
