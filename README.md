@@ -4,7 +4,6 @@ Fortuitousmake.index
 
 Just an ordinary college student who likes to type code, design, and make something cool.
    - 🔭 I'm currently working on Personal Project
-   - 🌱 Currently learning everything
    - 💬 I learned **everything!**
 
 
@@ -13,6 +12,7 @@ Just an ordinary college student who likes to type code, design, and make someth
 - [Twitter](https://twitter.com/Fortuitousmake)
 
 
+  <!-- - 🌱 Currently learning everything>
 <!-- <div style="text-align:center">
 <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Rizqdwan&theme=monokai&column=7&no-frame=true"/>
 </div> -->
