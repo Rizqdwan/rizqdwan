@@ -8,9 +8,9 @@
 - 💬 I learned **everything!**
 
 
-### Social
+<!--### Social
 
-- [Twitter](https://twitter.com/Fortuitousmake)
+- [Twitter](https://twitter.com/Fortuitousmake)-->
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rizqdwan&layout=compact&theme=codeSTACKr )](https://github.com/Rizqdwan/github-readme-stats)
 
