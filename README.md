@@ -1,18 +1,21 @@
 Fortuitousmake.index
 
-## Hi, I'm Rizqdwan 
+## Hi, I'm Rizqdwan
 
-Just an ordinary college student who likes to type code, design, and make something cool.
-   - 🔭 I'm currently working on Personal Project
-   - 💬 I learned **everything!**
+#### Just an ordinary college student who likes to type code, design, and make something cool.
+- 🔭 I'm currently working on Personal Project
+- 🌱 I'm Currently learning JavaScript
+- 💬 I learned **everything!**
 
 
-## Social
+### Social
 
 - [Twitter](https://twitter.com/Fortuitousmake)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rizqdwan&layout=compact&theme=codeSTACKr )](https://github.com/Rizqdwan/github-readme-stats)
-  <!-- - 🌱 Currently learning everything>
+
+
+  
 <!-- <div style="text-align:center">
 <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Rizqdwan&theme=c&column=7&no-frame=true"/>
 </div> -->
