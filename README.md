@@ -3,8 +3,8 @@
 ## Hi, I'm Rizqdwan
 
 #### Just an ordinary college student who likes to type code, design, and make something cool.
-- 🔭 I'm currently working on Personal Project
-- 🌱 I'm Currently learning JavaScript
+- 🔭 I'm currently working on a Personal Project
+- 🌱 I'm Currently learning Spring Boot
 - 💬 I learned **everything!**
 
 
