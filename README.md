@@ -4,8 +4,9 @@
 
 #### Just an ordinary college student who likes to type code, design, and make something cool.
 - 🔭 I'm currently working on a Personal Project
-- 🌱 I'm Currently learning Spring Boot
-- 💬 I learned **everything!**
+- 🌱 I'm currently learning Spring Boot and Go
+- 💬 I'm interested in System Architecture
+
 
 
 <!--### Social
@@ -35,4 +36,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+- 💬 I learned **everything!**
 -->
