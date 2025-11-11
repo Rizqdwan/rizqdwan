@@ -15,7 +15,7 @@
 
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rizqdwan&layout=compact&theme=codeSTACKr )](https://github.com/Rizqdwan/github-readme-stats) -->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rizqdwan&layout=compact&theme=codeSTACKr)](https://github.com/Rizqdwan/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rizqdwan&layout=compact&theme=aura_dark)](https://github.com/Rizqdwan/github-readme-stats)
 
 
   
