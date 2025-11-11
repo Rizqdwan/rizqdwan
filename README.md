@@ -13,9 +13,9 @@
 
 - [Twitter](https://twitter.com/Fortuitousmake)-->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rizqdwan&layout=compact&theme=codeSTACKr )](https://github.com/Rizqdwan/github-readme-stats)
+<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rizqdwan&layout=compact&theme=codeSTACKr )](https://github.com/Rizqdwan/github-readme-stats) -->
 
-<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rizqdwan&layout=compact&theme=codeSTACKr_)](https://github.com/Rizqdwan/github-readme-stats) -->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rizqdwan&layout=compact)](https://github.com/Rizqdwan/github-readme-stats)
 
 
   
